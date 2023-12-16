@@ -1,4 +1,4 @@
-# Docker Deployment on both local and AWS ECS
+# Docker Deployment of full-stack App on both local and AWS ECS
 
 This README provides instructions on setting up and running a Dockerized multi-container application. The application consists of a backend, frontend, and uses MongoDB Atlas as the database. The deployment instructions cover production on both Local and AWS ECS. Please note that the code for the app, including the JavaScript, JSON, HTML and CSS is not authored by the repository owner.
 
