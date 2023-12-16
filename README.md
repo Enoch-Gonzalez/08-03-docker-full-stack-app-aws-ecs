@@ -21,10 +21,11 @@ This README provides instructions on setting up and running a Dockerized multi-c
 
 2. Set a value on the .env file for the MONGODB_NAME variable so that a database is used for this development phase:
 
-    // MONGODB_USERNAME=maximilian
-    MONGODB_PASSWORD=BjJiJgQOzPuwpETh
-    MONGODB_URL='<URL>'
-    MONGODB_NAME='<goals-$dev>'
+// 
+MONGODB_USERNAME=maximilian
+MONGODB_PASSWORD=BjJiJgQOzPuwpETh
+MONGODB_URL='<URL>'
+MONGODB_NAME='<goals-$dev>'
 
 3. Navigate in your MongoDB Atlas account and in your cluster do the following:
 
