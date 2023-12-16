@@ -36,10 +36,12 @@ MONGODB_NAME='<goals-$dev>'
 
 4. Copy your MongoDB Atlas URL on the variable MONGODB_URL in the .env file:
 
-    MONGODB_USERNAME='<name>'
-    MONGODB_PASSWORD='<password>'
-    MONGODB_URL='<MongDB-ATLAS-URL>'
-    MONGODB_NAME='<goals-$dev>'
+```
+MONGODB_USERNAME='<name>'
+MONGODB_PASSWORD='<password>'
+MONGODB_URL='<MongDB-ATLAS-URL>'
+MONGODB_NAME='<goals-$dev>'
+```
 
 5. Navigate in your MongoDB Atlas account and allow access to your db:
 
